@@ -1,0 +1,9 @@
+.calendly-inline-widget {
+    width: 100%;
+    min-width: 360px;
+    height: 630px;
+}
+
+.error {
+    color: #D32F2F;
+}

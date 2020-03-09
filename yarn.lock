@@ -1629,6 +1629,19 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
+"@formsort/constants@0.0.12":
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/@formsort/constants/-/constants-0.0.12.tgz#7e4f8ea51469299b5eec896f12a1367f57d0a532"
+  integrity sha512-1f7OP3kym4p7j511vI++3+5A90XC1F6w7LcMLWqOp9JK0qUH3rZ2m8q9ED/YK+46iPt5rCHHskmxVYmAzVYB/A==
+
+"@formsort/custom-question-api@^0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@formsort/custom-question-api/-/custom-question-api-0.0.10.tgz#11e25279bf6771c35c112ef7b495999b6fd8a4fb"
+  integrity sha512-T+nHEmha4weZuY6XUYlvJa7msMiJvxD/FX4NAUnOrdDGsegHOiOnXXQopiPFIPYGE7ZeluxBe4EYh4aX0IhWOA==
+  dependencies:
+    "@formsort/constants" "0.0.12"
+    events "^3.0.0"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
